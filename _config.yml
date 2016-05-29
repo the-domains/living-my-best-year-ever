@@ -1,4 +1,4 @@
-layout_spectrum: 0.3214286
+layout_spectrum: 0.5845864
 name: Living My Best Year Ever
 author:
   name: Jarid Johnston
@@ -19,12 +19,12 @@ collections:
 typography_spectrum: 0.9043102734722197
 color:
   brandStrength: 0.6357445882167667
-  saturation: 0.1460944965947419
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
   lightness: 0.680434460984543
+  saturation: 0.1460944965947419
   rhythmicContrast: 0.147476005833596
+  brandColors:
+    - '#4A2B0F'
+    - '#754B1B'
+    - '#966429'
+    - '#BE8945'
+    - '#F3C57C'
