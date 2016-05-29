@@ -1,4 +1,3 @@
-layout_spectrum: 0.5928434992674738
 typography_spectrum: 0.9043102734722197
 color:
   brandStrength: 0.6357445882167667
@@ -11,4 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.5928434992674738
+author:
+  name: Jarid Johnston
+  email: jarid.johnston@gmail.com
 name: Living My Best Year Ever
+title: Less trying more Doing
