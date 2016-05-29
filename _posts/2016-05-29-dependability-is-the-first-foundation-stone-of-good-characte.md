@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.naphill.org/tftd/thought-for-the-day-wednesday-may-25-2016/?utm_source=NHF+Email+Subscribers&utm_campaign=be0e835206-TFTD_EMAIL&utm_medium=email&utm_term=0_9e231d0df6-be0e835206-209715649'
 title: 'Dependability is the first foundation stone of good character. | Napoleon Hill Foundation'
-datePublished: '2016-05-29T22:32:15.934Z'
-dateModified: '2016-05-29T22:27:47.625Z'
+datePublished: '2016-05-29T22:32:17.741Z'
+dateModified: '2016-05-29T22:27:39.476Z'
 starred: false
 sourcePath: _posts/2016-05-29-dependability-is-the-first-foundation-stone-of-good-characte.md
 inFeed: true
