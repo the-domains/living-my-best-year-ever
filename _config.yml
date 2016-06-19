@@ -1,7 +1,22 @@
+typography_spectrum: 0.6523297
+color:
+  saturation: 0.3602757
+  brandStrength: 0.5698925
+  rhythmicContrast: 0.147476
+  brandColors:
+    - '#4A2B0F'
+    - '#754B1B'
+    - '#966429'
+    - '#BE8945'
+    - '#F3C57C'
+  lightness: 0.787594
+layout_spectrum: 0
+analytics:
+  google: UA-79570743-1
 author:
   name: Jarid Johnston
   email: jarid.johnston@gmail.com
-title: Less trying more Doing
+name: Living My Best Year Ever
 collections:
   - index:
       path: /
@@ -14,17 +29,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.3602757
-  brandStrength: 0.5698925
-  rhythmicContrast: 0.147476
-  brandColors:
-    - '#4A2B0F'
-    - '#754B1B'
-    - '#966429'
-    - '#BE8945'
-    - '#F3C57C'
-  lightness: 0.787594
-typography_spectrum: 0.6523297
-layout_spectrum: 0
-name: Living My Best Year Ever
+title: Less trying more Doing
