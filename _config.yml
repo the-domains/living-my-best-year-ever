@@ -17,7 +17,11 @@ author:
   name: Jarid Johnston
   email: jarid.johnston@gmail.com
   url: 'http://jaridpj.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2aa9848-aaf0-4e40-b701-fcf39da688d1.jpg
 name: Living My Best Year Ever
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/33a23b07-c534-4d61-95b6-14baa649e910.jpg
 collections:
   - index:
       path: /
