@@ -1,7 +1,7 @@
 ---
 title: 'Canandaigue lake New York - #jaridpj #nomad www.jaridpj.com '
-datePublished: '2016-08-21T00:57:50.223Z'
-dateModified: '2016-08-21T00:57:50.119Z'
+datePublished: '2016-08-21T00:58:01.491Z'
+dateModified: '2016-08-21T00:58:01.256Z'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6081880-37d7-4ef6-a018-fff8f3295e09.jpg
