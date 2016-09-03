@@ -1,9 +1,27 @@
+typography_spectrum: 0.6297872
+color:
+  saturation: 0.972986075328663
+  brandStrength: 0.6113816993311048
+  lightness: 0.3460272401571274
+  brandColors:
+    - '#050507'
+    - '#FFFFFF'
+    - '#33476A'
+    - '#616B6C'
+    - '#9BBCCB'
+  rhythmicContrast: 0.8648081817664206
+layout_spectrum: 0.5957447
+analytics:
+  google: UA-79570743-1
 author:
   name: Jarid Johnston
   email: jarid.johnston@gmail.com
   url: 'http://jaridpj.com'
-title: 'Travel, Beaches, Fine Cigars, Fine Food, and Fine Women. #jaridpj #nomad'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2aa9848-aaf0-4e40-b701-fcf39da688d1.jpg
 name: Living My Best Year Ever
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/33a23b07-c534-4d61-95b6-14baa649e910.jpg
 collections:
   - index:
       path: /
@@ -16,22 +34,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2aa9848-aaf0-4e40-b701-fcf39da688d1.jpg
-color:
-  saturation: 0.972986075328663
-  brandStrength: 0.6113816993311048
-  lightness: 0.3460272401571274
-  brandColors:
-    - '#050507'
-    - '#FFFFFF'
-    - '#33476A'
-    - '#616B6C'
-    - '#9BBCCB'
-  rhythmicContrast: 0.8648081817664206
-typography_spectrum: 0.6297872
-layout_spectrum: 0.5957447
-analytics:
-  google: UA-79570743-1
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/33a23b07-c534-4d61-95b6-14baa649e910.jpg
+title: Living My Best Year Ever
