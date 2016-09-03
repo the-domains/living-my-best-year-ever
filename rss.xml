@@ -4,15 +4,8 @@
         <description><![CDATA[Living My Best Year Ever]]></description>
         <link>https://thegrid.ai/living-my-best-year-ever/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 17:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 17:45:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/living-my-best-year-ever/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Lake Logan State Park]]></title>
-            <description><![CDATA[<article><h1>Lake Logan State Park</h1><p>One of the best fishing lakes in Ohio awaits sportsmen in Hocking County at Lake Logan State Park. The 400-acre lake sports northern pike, bass, bluegill, crappie, catfish and saugeye. Lake Logan is a 318-acre day-use park that provides scenic picnic areas and secluded walking paths to enjoy the wooded beauty of Ohio's hill country.</p></article>]]></description>
-            <link>http://jaridpj.com/2016/07/19/lake-logan-state-park/</link>
-            <guid isPermaLink="false">68d2d43f-2dca-4bc2-af31-88ac0cba5915</guid>
-            <pubDate>Wed, 31 Aug 2016 17:45:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cafe Soule & The Paris Room]]></title>
             <description><![CDATA[<article><h1>Cafe Soule & The Paris Room</h1><p>We are dedicated to providing a quality fusion of New Orleans and French cuisines. We use only fresh ingredients and very dish is made to order. Experience our love and appreciation for French and New Orleans foods. Café Soule offers a selection of French and domestic wines to compliment any of our meals.</p></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://jaridpj.com/2016/07/19/lake-logan-state-park/</link>
             <guid isPermaLink="false">d31ac822-3f9b-41fc-a63a-6614f060f617</guid>
             <pubDate>Mon, 25 Jul 2016 03:43:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Niagara Falls in slow motion]]></title>
+            <description><![CDATA[<article><h1>Niagara Falls in slow motion</h1><p>Just playing around with the slow-motion video on my iPhone at Niagara Falls. Just thought I would share - #Jaridpj #nomad www.jaridpj.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d84d3d0d80bd98785da9e2ce545e4c1c/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FNigA2MKa4eA%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtube.com/watch?v=NigA2MKa4eA</link>
+            <guid isPermaLink="false">71c90636-2437-4b3c-aa66-e4a3ee55e730</guid>
+            <pubDate>Mon, 25 Jul 2016 03:43:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
