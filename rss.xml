@@ -4,20 +4,13 @@
         <description><![CDATA[Living My Best Year Ever]]></description>
         <link>https://thegrid.ai/living-my-best-year-ever/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 17:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 17:45:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/living-my-best-year-ever/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cafe Soule & The Paris Room]]></title>
             <description><![CDATA[<article><h1>Cafe Soule & The Paris Room</h1><p>We are dedicated to providing a quality fusion of New Orleans and French cuisines. We use only fresh ingredients and very dish is made to order. Experience our love and appreciation for French and New Orleans foods. Café Soule offers a selection of French and domestic wines to compliment any of our meals.</p></article>]]></description>
             <link>http://jaridpj.com/2016/07/06/cafe-soule-paris-room/</link>
             <guid isPermaLink="false">b3dc84d0-416d-429d-9194-63ab40677422</guid>
-            <pubDate>Wed, 31 Aug 2016 17:45:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Puccinos The Real Italian Coffee Of New Orleans]]></title>
-            <description><![CDATA[<article><h1>Puccinos The Real Italian Coffee Of New Orleans</h1><p>A coffee at a traditional Italian bar. Coffee has become as much a symbol of Italy as its pasta and pizza. The first coffeehouse in Italy is said to have opened in Venice in 1645 as a result of the city's strong trade links with the East.</p></article>]]></description>
-            <link>http://jaridpj.com/2016/06/28/puccinos-the-real-italian-coffee-of-new-orleans/</link>
-            <guid isPermaLink="false">c1b4b34d-1dd8-4b8e-9e50-eb0720ff3b92</guid>
             <pubDate>Wed, 31 Aug 2016 17:45:08 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +68,13 @@
             <link>https://youtube.com/watch?v=NigA2MKa4eA</link>
             <guid isPermaLink="false">71c90636-2437-4b3c-aa66-e4a3ee55e730</guid>
             <pubDate>Mon, 25 Jul 2016 03:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Butter n bees]]></title>
+            <description><![CDATA[<article><h1>Butter n bees</h1><p>I've been trying to catch butterflies and bees for the last three weeks on my travels, hiking n camping. It always seems like they are camera shy, the moment I pull the camera out they fly away.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fefead1a34cffc6472f74bd096883d93/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FNqdAHJ0E0ak%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtube.com/watch?v=NqdAHJ0E0ak</link>
+            <guid isPermaLink="false">26a25f6c-1252-4670-93e6-2daae4b99f49</guid>
+            <pubDate>Mon, 25 Jul 2016 03:43:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
